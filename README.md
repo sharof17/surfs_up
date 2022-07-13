@@ -5,11 +5,11 @@ The purpose of the analysis is analysis is to see temperature statistics for Jun
 
 ## Results
 
-_June Statistics for the Temperature and Precipitation
+_June Statistics for the Temperature and Precipitation_
 
 ![June](Resources/junedesc.png)
 
-_December Statistics for the Temperature and Precipitation
+_December Statistics for the Temperature and Precipitation_
 
 ![December](Resources/decemberdesc.png)
 
