@@ -36,5 +36,4 @@ To sum up it is important to say that the weather in December and June is very s
 - Percipitation level of June
 - Percipitation level of December
 
-Precipation difference between June and December to determine is one has more rainy weather, as well as a comaparison by weather station, as we may see higher/lower temperatures and precipitation levels at different locations. We would be primarily interested in the weather station closest to our prospective location, which would narrow the results and provide the best data for us to consider.
 
