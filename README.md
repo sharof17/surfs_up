@@ -20,6 +20,14 @@ The tables above show the weather patterns for June and December.
 - The minimum temperature of 56 (December) and 64 (June) show the greatest variance, and shows much lower temperature level in December. 
 - However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
 
+_June Temprature_
+
+![JuneHist](Resources/juneplt.png)
+
+_December Temperature_
+
+![DecemberHist](Resources/decemberplt.png)
+
 ## Summary
 
 To sum up it is important to say that the weather in December and June is very similar. The maximums of the month are very close to each other. However, the minimum of December is much lower than June's.
