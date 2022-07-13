@@ -30,7 +30,7 @@ _December Temperature_
 
 ## Summary
 
-To sum up it is important to say that the weather in December and June is very similar. The maximums of the month are very close to each other. However, the minimum of December is much lower than June's.
+To sum up it is important to say that the weather in December and June is very similar. The maximums of the month are very close to each other. However, the minimum of December is much lower than June's. The temperature data is not strongly skewed for either month. The ratio of the temperatures to the precipitation for the two months is also reasonably similar with few outliers over 3 inches of precipitation. The data supports opening a Surf and Ice Cream shop year-round.
 
 *Additional queries included:*
 - Percipitation level of June
