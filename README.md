@@ -18,7 +18,7 @@ The tables above show the weather patterns for June and December.
 - Average temperature between June and December is 75 and 71 degrees respectively. And the precipitation average is 0.22 inches and 0.14 inches in December and June, respectevely. 
 - The maximum temperatures of 85 (June) and 83 (December) are also almost similar.
 - The minimum temperature of 56 (December) and 64 (June) show the greatest variance, and shows much lower temperature level in December. 
-- However, with standard deviations of 3.25 (June) and 3.74 (December) little more variation should be expected in the numberso of the month December.
+- However, with standard deviations of 3.25 (June) and 3.74 (December) little more variation should be expected in the numbers of the month December.
 
 _June Temprature_
 
